@@ -1,4 +1,5 @@
 {
+
 "teams" : [
       {
         id:1,
@@ -18,6 +19,6 @@
         logo: "assets/icon/Wydad.png",
         colors : ["red","blue"],
         description: ""
-      },
+      }
     ]
 }
