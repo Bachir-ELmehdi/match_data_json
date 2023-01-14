@@ -19,4 +19,15 @@
 		"colors": "red,blue",
 		"description": ""
 	}]
+	"users": [{
+			"name": "mehdi",
+			"ussername": "mehdi321",
+			"password": "mehdim"
+		},
+		{
+			"name": "amine",
+			"ussername": "amine321",
+			"password": "aminem"
+		}
+	]
 }
