@@ -4,19 +4,19 @@
 		"id": 1,
 		"name": "Fath club",
 		"logo": "assets/icon/fath.png",
-		"colors": "red,green",
+		"colors": ["red","green"],
 		"description": ""
 	}, {
 		"id": 2,
 		"name": "Raja club",
 		"logo": "assets/icon/raja.png",
-		"colors": "red,cyan",
+		"colors": ["red","cyan"],
 		"description": ""
 	}, {
 		"id": 3,
 		"name": "Wydad club",
 		"logo": "assets/icon/Wydad.png",
-		"colors": "red,blue",
+		"colors": ["red","blue"],
 		"description": ""
 	}],
 	"users": [{
